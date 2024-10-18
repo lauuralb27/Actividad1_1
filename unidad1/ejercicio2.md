@@ -29,7 +29,7 @@ Markdown es un lenguaje de marcado ligero que permite **formatear texto** de man
 
 ### Imagen:
 
-![Markdown logo](./Markdown-Logo.wine.png)
+![Markdown logo](/Actividad1_1/unidad1/img/Markdown-Logo.wine.png)
 
 ### Tabla:
 
