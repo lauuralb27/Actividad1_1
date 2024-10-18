@@ -1,4 +1,4 @@
-# Ejercicio 14
+# Ejercicio 1
 
 ## Crear el repositorio
 
@@ -56,7 +56,7 @@ Creamos el archivo, modificamos el archivo 1 y comprobamos
 
 Modificamos el archivo 1
 
-## Añadir canbios 
+## Añadir cambios 
 ![modificado](./img/12..PNG)
 
 Añadimos todos los archivos y cambios del directorio actual 
